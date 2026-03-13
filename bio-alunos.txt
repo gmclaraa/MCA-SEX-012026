@@ -7,3 +7,13 @@ Se trabalha:  Não trabalho
 Objetivo: Atuar com Engenharia de Software
 ---
 >>>>>>
+
+Nome: Aluno2
+RA: 002
+Curso: Engenharia de Software
+Semestre: 3o
+Bairro: Itaquera
+Se trabalha:  Não trabalho
+Objetivo: Atuar com Engenharia de Software
+---
+>>>>>>
